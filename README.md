@@ -88,9 +88,11 @@
 
 <h7 align ="left"> AlonePhilic Boy </h7>
 
-<p align="left"> <img src="https://telegra.ph/file/cb016a413d21b2533b7e8.jpg" height="55px" width="55px">
+<p align="center"> <img src="https://telegra.ph/file/cb016a413d21b2533b7e8.jpg" height="120px" width="120px">
 
+<p align="center"> <img src="https://telegra.ph/file/35db1a6fca331baed79f6.jpg" height="120px" width="120px">
 
+<p align="center"> <img src="https://telegra.ph/file/953483dfb054037f24d15.jpg" height="120px" width="120px">
 
 </p>
 
