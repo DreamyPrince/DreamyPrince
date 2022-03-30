@@ -86,6 +86,12 @@
 
 </p>
 
+<p>
+
+<a href="https://github.com/AlonePhilic"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a>
+
+</p>
+
 <h7 align ="left"> AlonePhilic Boy </h7>
 
 <p align="center"> <img src="https://telegra.ph/file/cb016a413d21b2533b7e8.jpg" height="120px" width="120px">
