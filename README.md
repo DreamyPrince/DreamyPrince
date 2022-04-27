@@ -77,6 +77,8 @@
 </p>
 
 
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=31kei57xqb46kg7oyq2bwyazexwa&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31kei57xqb46kg7oyq2bwyazexwa&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)
+
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlonePhilic&layout=compact&theme=chartreuse-dark" />
 </p>
