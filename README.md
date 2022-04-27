@@ -1,6 +1,10 @@
 <html>
   <body>
 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+
+
 <h3 align="center"> <strong> ʜᴇʟʟᴏ ꜰʀɪᴇɴᴅ👋 </strong> </h3>
 
 
