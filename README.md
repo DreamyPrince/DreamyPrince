@@ -58,5 +58,11 @@ I'm currently learning coding.I'm a passionate newbie to the coding world<img sr
     <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </a>
 
+<a align="center" href="https://instagram.com/itzme_lucifer01?igshid=YmMyMTA2M2Y=">
+    <img src="https://img.shields.io/badge/Instagram-Itzme__Lucifer01-black"/>
+</a>
+
+<p align="left"> <a href="https://twitter.com/itzmelucifer" target="blank"><img src="https://img.shields.io/twitter/follow/itzmelucifer?logo=twitter&style=for-the-badge" alt="itzmelucifer" /></a> </p>
+
 ---
 
