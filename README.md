@@ -24,4 +24,4 @@
 
 ### 👨‍💻: About Me :
 
-I am currently learning coding.I am passionate newbie to the coding world<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am currently learning coding.I am a passionate newbie to the coding world<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
