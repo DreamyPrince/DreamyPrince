@@ -1,3 +1,4 @@
+
 <html>
  <body>
 
@@ -6,15 +7,21 @@
 </div>
 
 <div id="badges">
-  <a href="https://instagram.com/itzme_lucifer01?igshid=YmMyMTA2M2Y=">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="yhttps://m.youtube.com/channel/UCjeEC3rQzU7v4edt_HC2aZQ">
-    <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/ItzmeLucifer?t=6SX-bWenyZbMfch27Cwq3Q&s=09">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=DreamyPrince&style=round-square&color=green" alt=""/>
 </div>
 
+<h1 align="center">
+  Hello Dude
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### 👨‍💻: About Me :
+
+I am currently learning coding.I am passionate newbie to the coding world<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
