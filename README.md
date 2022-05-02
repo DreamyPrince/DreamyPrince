@@ -62,7 +62,45 @@ I'm currently learning coding.I'm a passionate newbie to the coding world<img sr
     <img src="https://img.shields.io/badge/Instagram-Itzme__Lucifer01-black"/>
 </a>
 
-<p align="left"> <a href="https://twitter.com/itzmelucifer" target="blank"><img src="https://img.shields.io/twitter/follow/itzmelucifer?logo=twitter&style=for-the-badge" alt="itzmelucifer" /></a> </p>
+<a href="https://www.snapchat.com/add/akkuzz_akhil?share_id=dCG_w_h03K0&locale=en-US">
+    <img src="https://img.shields.io/badge/SnapChat-DreamyPrince%20-black"/>
+</a>
+
+<a href="https://wa.me/+18192729592">
+    <img src="https://img.shields.io/badge/WhatsApp-DreamyPrince-black"/>
+</a>
+
 
 ---
 
+<h3 align="left"> Github Stats </h3>
+<a href="https://github.com/DreamyPrince"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=DreamyPrince&theme=monokai"></a>
+</p>
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DreamyPrince&layout=compact&theme=chartreuse-dark" />
+</p>
+
+<img src="https://profile-counter.glitch.me/DreamyPrince/count.svg" />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamyprince&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="dreamyprince" /></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DreamyPrince&theme=blueberry_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000)](https://git.io/streak-stats)
+
+---
+
+### Music is Everything for me 🎶
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=31kei57xqb46kg7oyq2bwyazexwa&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31kei57xqb46kg7oyq2bwyazexwa&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true)
+
+---
+
+<h4 align ="left"> Dreamy Prince </h4>
+
+<p align="center"> <img src="https://i.imgur.com/NymSJ6f.jpeg" height="120px" width="120px">
+
+</p>
+
+<p>
+
+<a href="https://github.com/DreamyPrince"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a>
+
+</p>
