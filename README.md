@@ -95,7 +95,7 @@ I'm currently learning coding.I'm a passionate newbie to the coding world<img sr
 
 <h4 align ="left"> Dreamy Prince </h4>
 
-<p align="center"> <img src="https://i.imgur.com/NymSJ6f.jpeg" height="120px" width="120px">
+<p align="center"> <img src="https://i.imgur.com/NymSJ6f.jpeg" height="250px" width="250px">
 
 </p>
 
