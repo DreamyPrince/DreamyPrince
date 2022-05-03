@@ -37,7 +37,7 @@ I'm currently learning coding.I'm a passionate newbie to the coding world<img sr
 
 - 🎂 Wish me on Aug 28ᵗʰ
 
-- 💝 I've a girl who love's and cares me
+- 💝 I've a girl who loves and cares me
 
 - 😊 Life is trying to Halt me... But I won't give up
 
@@ -104,3 +104,6 @@ I'm currently learning coding.I'm a passionate newbie to the coding world<img sr
 <a href="https://github.com/DreamyPrince"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a>
 
 </p>
+
+ </body>
+</html>
