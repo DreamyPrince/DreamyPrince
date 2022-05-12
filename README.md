@@ -7,7 +7,7 @@
 
 <div id="badges">
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DreamyPrince&style=round-square&color=green" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=DreamyPrince&style=round-square&color=red" alt=""/>
 </div>
 
 <p align="center"> <a href="https://github.com/DreamyPrince"> <img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="300%"/> </a>
@@ -51,11 +51,8 @@
 
 <h3 align="left"> 𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊'𝚜 <img src="https://media.giphy.com/media/lW1KdE0faiQ8g/giphy.gif" width="30"> : </h3>
 
-<p align="center"> <a href="https://twitter.com/itzmelucifer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzmelucifer" height="30" width="40" /></a>
-
-</p>
-<a align="center" href="https://m.youtube.com/channel/UCjeEC3rQzU7v4edt_HC2aZQ">
-    <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+<a align="center" href="https://twitter.com/itzmelucifer">
+    <img src="https://img.shields.io/badge/Twitter-Dreamy%20Prince-black"/>
 </a>
 
 <a align="center" href="https://instagram.com/itzme_lucifer01?igshid=YmMyMTA2M2Y=">
