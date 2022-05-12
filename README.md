@@ -33,7 +33,7 @@
 
 - <img src="https://media.giphy.com/media/SG8xwInM4UKaTrgIyq/giphy.gif" width="30"> 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙰𝚔𝚑𝚒𝚕 𝙼𝚊𝚑𝚎𝚜𝚑
 
-- <img src="https://media.giphy.com/media/k479RIcK1v3SzX6v2b/giphy.gif" width="30"> 𝙸'𝚖 <img src="https://media.giphy.com/media/3oz8xMsEVYySEOVcVG/giphy.gif" width="30"> 𝚢𝚎𝚊𝚛𝚜 𝚘𝚕𝚍
+- <img src="https://media.giphy.com/media/k479RIcK1v3SzX6v2b/giphy.gif" width="30"> 𝙸'𝚖 17 𝚢𝚎𝚊𝚛𝚜 𝚘𝚕𝚍
 
 - <img src="https://media.giphy.com/media/KdC9XVrVYOVu6zZiMH/giphy.gif" width="30"> 𝚆𝚒𝚜𝚑 𝚖𝚎 𝚘𝚗 𝙰𝚞𝚐 28ᵗʰ
 
