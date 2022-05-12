@@ -27,7 +27,7 @@
 
 ### 👨‍💻: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 :
 
-𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚌𝚘𝚍𝚒𝚗𝚐. 𝙸'𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚗𝚎𝚠𝚋𝚒𝚎 𝚝𝚘 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚒𝚗𝚐 𝚠𝚘𝚛𝚕𝚍<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊 <img src="https://media.giphy.com/media/9Gnbm29r7ftUA/giphy.gif" width="30">.
+𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚌𝚘𝚍𝚒𝚗𝚐. 𝙸'𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚗𝚎𝚠𝚋𝚒𝚎 𝚝𝚘 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚒𝚗𝚐 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 𝚠𝚘𝚛𝚕𝚍 𝚏𝚛𝚘𝚖 <img src="https://media.giphy.com/media/9Gnbm29r7ftUA/giphy.gif" width="30">.
 
 <div align="left">
 
