@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=DreamyPrince&style=round-square&color=green" alt=""/>
 </div>
 
-<p align="center"> <a href="https://github.com/DreamyPrince"> <img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="300%"/> </a>
+<p align="center"> <a href="https://github.com/DreamyPrince"> <img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/> </a>
 </p>
 
 
@@ -41,9 +41,9 @@
 
 - <img src="https://media.giphy.com/media/A77Hwf9yoPAZYWNDCy/giphy.gif" width="30"> 𝙻𝚒𝚏𝚎 𝚒𝚜 𝚝𝚛𝚢𝚒𝚗𝚐 𝚝𝚘 𝚑𝚊𝚕𝚝 𝚖𝚎! 𝙸 𝚠𝚘𝚗'𝚝 𝚐𝚒𝚟𝚎 𝚞𝚙!
 
-- <img src="https://media.giphy.com/media/KdrH7Vx1u9eDJqs100/giphy.gif" width="30"> ️ 𝙼𝚢 𝚕𝚒𝚏𝚎 𝚠𝚊𝚜 𝚌𝚑𝚊𝚗𝚐𝚎𝚍 𝚏𝚛𝚘𝚖 𝚝𝚑𝚒𝚜 <a href="https://g.co/kgs/wDyKLY"> 𝚑𝚎𝚊𝚟𝚎𝚗 </a>
+- <img src="https://media.giphy.com/media/KdrH7Vx1u9eDJqs100/giphy.gif" width="20"> ️ 𝙼𝚢 𝚕𝚒𝚏𝚎 𝚠𝚊𝚜 𝚌𝚑𝚊𝚗𝚐𝚎𝚍 𝚏𝚛𝚘𝚖 𝚝𝚑𝚒𝚜 <a href="https://g.co/kgs/wDyKLY"> 𝚑𝚎𝚊𝚟𝚎𝚗 </a>
 
-- <img src="https://media.giphy.com/media/izxswKdmqmQrS/giphy.gif" width="30"> 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 : alonephilicboy@gmail.com
+- <img src="https://media.giphy.com/media/izxswKdmqmQrS/giphy.gif" width="20"> 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 : alonephilicboy@gmail.com
 
 </div>
 
